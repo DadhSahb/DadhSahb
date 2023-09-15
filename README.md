@@ -1,16 +1,21 @@
-### Hi there 👋
+👋 Hello, I'm Hamza Hamid
 
-<!--
-**DadhSahb/Dadhsahb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | MERN Stack Enthusiast
 
-Here are some ideas to get you started:
+🌟 About Me
+- 💼 Full Stack Developer with a passion for building scalable web applications.
+- 🌐 Proficient in MERN (MongoDB, Express.js, React, Node.js) stack development.
+- 🎨 Frontend enthusiast with expertise in crafting responsive and user-friendly interfaces.
+- 🐍 Experienced in Python for data analysis and scripting.
+- 💻 Worked with PHP and SQL for web development and database management.
+- 📊 Data-driven mindset with a strong background in MongoDB and NoSQL databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect
+- 📧 Email: thedev.hamza@gmail.com
+- 💼 LinkedIn: [Link](https://www.linkedin.com/in/hamza-hamid-097296194/)
+- 🌐 Portfolio: [Link](dadhsahb.github.io/hamza_portfolio)
+
+📚 Always Learning
+- 📖 Currently exploring [Vite.js].
+- 💡 Open to collaboration and new opportunities.
+- 🌍 Passionate about contributing to open-source projects.
