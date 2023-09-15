@@ -12,8 +12,8 @@
 
 📫 Let's Connect
 - 📧 Email: thedev.hamza@gmail.com
-- 💼 LinkedIn: [Link](https://www.linkedin.com/in/hamza-hamid-097296194/)
-- 🌐 Portfolio: [Link](dadhsahb.github.io/hamza_portfolio)
+- 💼 LinkedIn: https://www.linkedin.com/in/hamza-hamid-097296194/
+- 🌐 Portfolio: dadhsahb.github.io/hamza_portfolio
 
 📚 Always Learning
 - 📖 Currently exploring [Vite.js].
