@@ -3,9 +3,9 @@
 🚀 Full Stack Developer | MERN Stack Enthusiast
 
 🌟 About Me
+- 🎨 Frontend enthusiast with expertise in crafting responsive and user-friendly interfaces.
 - 💼 Full Stack Developer with a passion for building scalable web applications.
 - 🌐 Proficient in MERN (MongoDB, Express.js, React, Node.js) stack development.
-- 🎨 Frontend enthusiast with expertise in crafting responsive and user-friendly interfaces.
 - 🐍 Experienced in Python for data analysis and scripting.
 - 💻 Worked with PHP and SQL for web development and database management.
 - 📊 Data-driven mindset with a strong background in MongoDB and NoSQL databases.
